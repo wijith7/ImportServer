@@ -3,12 +3,14 @@
     <CLASSES>
       <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/finiteTypeTest" />
       <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/wso2" />
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/wijith" />
       <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/testorg" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/finiteTypeTest" />
       <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/wso2" />
+      <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/wijith" />
       <root url="file://$USER_HOME$/.ballerina/caches/central.ballerina.io/testorg" />
     </SOURCES>
     <excluded>
